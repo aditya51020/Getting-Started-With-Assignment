@@ -1,0 +1,6 @@
+q4: Write a short note on tag and element with an example?
+
+ANS: HTML tags are the keywords on a web page that define how our web browser must format and display our web page. Almost all tags contain two parts, an opening, and a closing tag.
+ For eg: <html> is the opening tag and </html> is the closing tag
+
+The html element is the root element and it defines the whole HTML document. It has a start tag <html> and an end tag </html> . The <body> element defines the document's body. It has a start tag <body> and an end tag </body>
